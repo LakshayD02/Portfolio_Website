@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- Background -->
+  <rect width="128" height="128" fill="#306998"/>
+  
+  <!-- Python Logo -->
+  <polygon fill="#FFD43B" points="64,0 7.392,15.04 7.392,112.96 64,128 120.608,112.96 120.608,15.04"/>
+  <polygon fill="#3C5A99" points="64,4.48 11.84,18.944 11.84,109.056 64,123.52 116.16,109.056 116.16,18.944"/>
+  <polygon fill="#306998" points="64,8.96 16.288,23.84 16.288,105.152 64,120.032 111.712,105.152 111.712,23.84"/>
+  
+  <!-- Python Text -->
+  <text x="50%" y="65%" font-size="24" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">Python</text>
+</svg>
